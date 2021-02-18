@@ -11,3 +11,4 @@
   * [Fish](./linear-regression/fish) ``` Multi-Variable Linear Regression Model Using Fish Species Data ```
 * [Logistic Regression](./logistic-regression)
   * [Education](./logistic-regression/education) ``` Logistic Regression Model Using Education API Data ```
+  * [Insurance Prediction](./logistic-regression/insurance) ``` Logistic Regression Model Using Insurance Data ```
