@@ -1,0 +1,4 @@
+age,bought_insurance,predicted_bought_insurance
+50,1,1
+55,0,1
+60,1,1
