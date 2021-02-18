@@ -2,6 +2,8 @@
 ### Machine Learning using Python
 
 ## Contents
+* [Data Processing](./data-processing)
+  * [Splitting Data](./data-processing/splitting-data) ``` Splitting Data into Training and Testing Data ```
 * [Linear Regression](./linear-regression)
   * [Home Price SVR ](./linear-regression/home-price-svr) ``` Single Variable Linear Regression Model Using Home Price and Area ```
   * [Home Price MVR ](./linear-regression/home-price-mvr) ``` Multi-Variable Linear Regression Model Using Home Price, Area, Age and Bedrooms ```
