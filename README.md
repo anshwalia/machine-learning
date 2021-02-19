@@ -10,5 +10,6 @@
   * [Home Price OHE ](./linear-regression/home-price-ohe) ``` Linear Regression Model Using Home Loction, Price and Area with One Hot Encoding Method ```
   * [Fish](./linear-regression/fish) ``` Multi-Variable Linear Regression Model Using Fish Species Data ```
 * [Logistic Regression](./logistic-regression)
+  * [Digit Predicton](./logistic-regression/digits) ``` Multi-Class Logistic Regression Using SciKit Learn's Digits Dataset ```
   * [Education](./logistic-regression/education) ``` Logistic Regression Model Using Education API Data ```
   * [Insurance Prediction](./logistic-regression/insurance) ``` Logistic Regression Model Using Insurance Data ```
