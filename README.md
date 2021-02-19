@@ -13,3 +13,5 @@
   * [Digit Predicton](./logistic-regression/digits) ``` Multi-Class Logistic Regression Using SciKit Learn's Digits Dataset ```
   * [Education](./logistic-regression/education) ``` Logistic Regression Model Using Education API Data ```
   * [Insurance Prediction](./logistic-regression/insurance) ``` Logistic Regression Model Using Insurance Data ```
+* [Decision Tree](./decision-tree)
+  * [Salary Predictor](./decision-tree/salary) ``` Decision Tree Model Using Salary Data ```
