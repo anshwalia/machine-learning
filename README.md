@@ -30,3 +30,6 @@
 
 * [Random Forest](./random-forest)
   * [Digit Prediction](./random-forest/digits) ``` Random Forest Model Using SciKit Learn Digits Dataset ```
+
+* [K Means Clustering](./k-means-clustering)
+  * [Income Prediction](./k-means-clustering) ``` K Means Clustering Model Using Income Dataset ```
