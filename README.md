@@ -33,3 +33,7 @@
 
 * [K Means Clustering](./k-means-clustering)
   * [Income Prediction](./k-means-clustering/income) ``` K Means Clustering Model Using Income Dataset ```
+
+* [Naive Bayes](./naive-bayes)
+  * [Titanic Survival Prediction](./naive-bayes/titanic-survival) ``` Gaussian Naive Bayes Model Using Titanic Dataset ```
+  * [Spam Prediction](./naive-bayes/spam) ``` Multinomial Naive Bayes Model Using Spam Email Dataset ```
