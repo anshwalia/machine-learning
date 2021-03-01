@@ -37,3 +37,6 @@
 * [Naive Bayes](./naive-bayes)
   * [Titanic Survival Prediction](./naive-bayes/titanic-survival) ``` Gaussian Naive Bayes Model Using Titanic Dataset ```
   * [Spam Prediction](./naive-bayes/spam) ``` Multinomial Naive Bayes Model Using Spam Email Dataset ```
+
+* [Grid Search](./grid-search)
+  * [Flower Prediction](./grid-search/flower) ``` Grid Search Model Using SciKit Learn Iris Flower Datasee ```
