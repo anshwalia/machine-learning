@@ -40,3 +40,6 @@
 
 * [Grid Search](./grid-search)
   * [Flower Prediction](./grid-search/flower) ``` Grid Search Model Using SciKit Learn Iris Flower Datasee ```
+
+* [Time Series](./time-series)
+  * [Furniture Sales Prediction](./time-series/furniture-sales) ``` Time Series Model For Furniture Sales Prediction ```
