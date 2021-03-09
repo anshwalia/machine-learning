@@ -43,6 +43,7 @@
   * [Flower Prediction](./grid-search/flower) ``` Grid Search Model Using SciKit Learn Iris Flower Datasee ```
 
 * [Time Series](./time-series)
+  * [Stock Prediction](./time-series/stock) ``` Time Series Model Using SBI Historical Data ```
 
 * [Deep Learning](./deep-learning)
   * [Sign Language Digits Prediction](./deep-learning/Sign-language-digits-prediction) ``` Deep Learning Model Using Kaggle  Sign Language Digits Dataset ```
