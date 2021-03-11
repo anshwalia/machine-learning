@@ -47,3 +47,4 @@
 
 * [Deep Learning](./deep-learning)
   * [Sign Language Digits Prediction](./deep-learning/Sign-language-digits-prediction) ``` Deep Learning Model Using Kaggle  Sign Language Digits Dataset ```
+  * [Handwritten Digits Classification](./deep-learning/Handwritten-Digits-Classification) ``` Deep Learning Model Using Keras Handwritten Digits Dataset ```
