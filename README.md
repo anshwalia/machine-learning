@@ -25,7 +25,8 @@
 
 
 * [Support Vector Machine (SVM)](./support-vector-machine)
-  * [Flower Predictor](./support-vector-machine/flower) ``` SVM Model Using SciKit Learn Iris Flower Dataset ```
+  * [Flower Predictor](./support-vector-machine/flower) ``` SVM Classification Model Using SciKit Learn Iris Flower Dataset ```
+  * [COVID-19 Mortality Rate](./support-vector-machine/covid19-mortality-rate) ``` SVM Regression Model Using COVID-19 Dataset ```
 
 
 * [Random Forest](./random-forest)
